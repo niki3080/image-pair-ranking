@@ -1,0 +1,17 @@
+# virtual environment
+.venv/
+
+# python cache
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# system files
+.DS_Store
+
+# local data and generated artefacts
+data/
+artefacts/
+submissions/
+experiments/
+catboost_info/
